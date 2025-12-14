@@ -14,7 +14,6 @@ body {
     color: #ffffff;
 }
 
-/* Frosted glass container */
 .container {
     background: rgba(255, 255, 255, 0.05);
     backdrop-filter: blur(15px);
@@ -28,7 +27,6 @@ body {
     text-align: center;
 }
 
-/* Headings */
 h1 {
     font-size: 2rem;
     margin-bottom: 20px;
@@ -46,7 +44,6 @@ h1 {
     color: #cccccc;
 }
 
-/* Input and button */
 .input-container {
     display: flex;
     flex-wrap: wrap;
@@ -84,14 +81,12 @@ h1 {
     background-color: rgba(255, 255, 255, 0.25);
 }
 
-/* Error message */
 #error-message {
     color: #ff6b6b;
     font-size: 0.9rem;
     margin-top: 10px;
 }
 
-/* Hide elements */
 .hidden {
     display: none;
 }
